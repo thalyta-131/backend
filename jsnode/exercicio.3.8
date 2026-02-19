@@ -1,1 +1,36 @@
 8. O programa acima vai ter um problema quando digitarmos o primeiro valor maior que o último. Resolva esse problema com um código que funcione em qualquer situação.
+Write("Enter the first value:3 ")
+
+Write("Enter the last value:10")
+
+Read(end)
+
+Write("Enter the increment:2 ")
+
+Read(increment)
+
+If increment = 0 then
+
+Write("Invalid increment! Considering increment = 1")
+increment ← 1
+EndIf
+
+Write("Count:3 5 7 9 ")
+
+If start < end then
+
+// Counting up
+For number from start to end step increment do
+
+Write(number, " ")
+EndFor
+Else
+
+// Counting down
+For number from start to end step -increment do
+
+Write(number, " ")
+EndFor
+EndIf
+
+Write("Finished!")
