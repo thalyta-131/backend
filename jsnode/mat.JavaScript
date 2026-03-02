@@ -11,3 +11,34 @@ Autor: Thalyta
   </script>
 </body>
 </html>
+
+
+
+02.
+<html>
+<head>
+<title>...</title>
+</head>
+
+<body>
+  <script>
+    var valor1 = Math.acos (0.14);
+    alert (valor1);
+  </script>
+</body>
+</html>
+
+
+03.
+<html>
+<head>
+<title>...</title>
+</head>
+
+<body>
+  <script>
+    var valor1 = Math.acos (0.14);
+    alert (valor1);
+  </script>
+</body>
+</html>
