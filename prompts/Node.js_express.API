@@ -1,0 +1,4 @@
+https://github.com/thalyta-171/api-champions-league-nodejs
+API desenvolvida com Node.js utilizando o framework Express, com o objetivo de recriar uma estrutura de dados semelhante à da UEFA Champions League, permitindo a consulta de informações sobre times, jogadores e partidas.
+
+A aplicação foi construída seguindo boas práticas de desenvolvimento backend, com organização de rotas, separação de responsabilidades e estrutura modular, simulando um ambiente real de consumo de dados esportivos.
