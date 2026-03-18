@@ -1,1 +1,4 @@
 https://github.com/thalyta-171/gerenciador-podcasts-nodejs
+API desenvolvida em Node.js com TypeScript, utilizando o módulo nativo HTTP, para gerenciamento de podcasts. A aplicação permite listar, filtrar e organizar episódios de podcasts de forma simples e eficiente, sem o uso de frameworks externos como Express.
+
+O projeto foi estruturado com foco em boas práticas de desenvolvimento, incluindo tipagem estática com TypeScript, separação de responsabilidades e organização modular do código. A API simula um ambiente real de backend, trabalhando com rotas, controle de requisições e respostas HTTP.
