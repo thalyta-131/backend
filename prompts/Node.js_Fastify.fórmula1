@@ -1,0 +1,6 @@
+https://github.com/thalyta-171/minimal-api-formula1-fastify
+API minimalista desenvolvida com Node.js utilizando o framework Fastify, com o objetivo de fornecer informações sobre a Fórmula 1 de forma rápida e eficiente.
+
+A aplicação segue o conceito de Minimal API, focando em simplicidade, performance e baixo overhead, sendo ideal para construção de serviços leves e escaláveis.
+
+O projeto disponibiliza endpoints para consulta de dados relacionados à Fórmula 1, como pilotos, equipes e estatísticas básicas, simulando um ambiente real de consumo de APIs esportivas.
