@@ -1,0 +1,15 @@
+"name": "criando uma PI de blibioteca",
+"verson": "1.0.0",
+"description": Meu primeiro projeto",
+"main": "index.js",
+"scripts": {
+   "start": "node index.js",
+   "build": "webpack --mode production"
+},
+"dependencies": {
+  "react": "^18.2.0"
+},
+"devDependecies": {
+  "eslint": "^8.0.0"
+   }
+}
